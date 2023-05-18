@@ -1,0 +1,15 @@
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\Lib.csproj.AssemblyReference.cache
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\Lib.AssemblyInfoInputs.cache
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\Lib.AssemblyInfo.cs
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\Lib.csproj.CoreCompileInputs.cache
+C:\Users\get458\RiderProjects\Lib\Lib\bin\Debug\net7.0\Lib.exe
+C:\Users\get458\RiderProjects\Lib\Lib\bin\Debug\net7.0\Lib.deps.json
+C:\Users\get458\RiderProjects\Lib\Lib\bin\Debug\net7.0\Lib.runtimeconfig.json
+C:\Users\get458\RiderProjects\Lib\Lib\bin\Debug\net7.0\Lib.dll
+C:\Users\get458\RiderProjects\Lib\Lib\bin\Debug\net7.0\Lib.pdb
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\Lib.dll
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\refint\Lib.dll
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\Lib.pdb
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\Lib.genruntimeconfig.cache
+C:\Users\get458\RiderProjects\Lib\Lib\obj\Debug\net7.0\ref\Lib.dll
